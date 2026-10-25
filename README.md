@@ -1,15 +1,17 @@
 
 <div align="center">
 
-# Hi, I'm Mohamed Riyas 👋
+# ⚡ Hi, I'm Mohamed Riyas
 
 ### 🐍 Beginner Python Developer | SQL & MySQL Learner
 
-Building my coding skills one project at a time.
+**Learning today. Building tomorrow. 🚀**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedriyasahamed21)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Python](https://img.shields.io/badge/Python-Learning-00F5FF?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-Learning-FF00FF?style=for-the-badge&logo=databricks&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![MySQL](https://img.shields.io/badge/MySQL-Learning-00F5FF?style=for-the-badge&logo=mysql&logoColor=black)](https://www.mysql.com/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-mohamedriyasahamed21-181717?style=for-the-badge&logo=github)](https://github.com/mohamedriyasahamed21)
 
 </div>
 
@@ -17,64 +19,65 @@ Building my coding skills one project at a time.
 
 ## 👨‍💻 About Me
 
-- 🌱 I'm currently learning **Python, SQL, and MySQL**.
-- 🐍 Interested in Python programming and database development.
-- 🗄️ Learning how to store, query, and manage data with SQL.
-- 🛠️ Practicing by building small projects and improving my coding skills.
-- 🎯 My goal is to become a confident Python developer.
-- 🤝 Open to learning from other developers and contributing to beginner-friendly projects.
+- 🌱 I'm learning **Python, SQL, and MySQL**.
+- 💡 Interested in programming, databases, and problem-solving.
+- 🛠️ Practicing by building small beginner-friendly projects.
+- 📚 Improving my coding skills one step at a time.
+- 🎯 Goal: Become a confident Python developer and build useful applications.
 
 ---
 
-## 🧰 Tech Stack
+## ⚙️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-Intermediate%20learning-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python learning"/>
-  <img src="https://img.shields.io/badge/SQL-Learning-4479A1?style=flat-square&logo=databricks&logoColor=white" alt="SQL learning"/>
-  <img src="https://img.shields.io/badge/MySQL-Learning-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL learning"/>
-  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-Code%20Hosting-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</p>
+| Technology | Current Focus |
+|---|---|
+| 🐍 Python | Programming fundamentals, functions, and projects |
+| 🗄️ SQL | Queries, filtering, sorting, and joins |
+| 🐬 MySQL | Database design and CRUD operations |
+| 🔧 Git & GitHub | Version control and project documentation |
 
-## 📊 GitHub Statistics
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohamedriyasahamed21&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedriyasahamed21&show_icons=true&theme=radical&hide_border=true&rank_icon=github)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedriyasahamed21&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedriyasahamed21&layout=compact&theme=radical&hide_border=true)
 
-<img src="https://streak-stats.demolab.com?user=mohamedriyasahamed21&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=mohamedriyasahamed21&theme=radical&hide_border=true)
 
 </div>
 
-## 🚀 Projects I'm Working Toward
+---
 
-- 🧮 **Python Calculator** — practice functions, input handling, and basic logic.
-- 📇 **Contact Book** — practice Python data structures and CRUD operations.
-- 🗄️ **Student Database System** — practice SQL queries and MySQL integration.
-- 💰 **Expense Tracker** — practice data management and database operations.
+## 🚀 Projects to Build
 
-*These are project goals and examples, not claims of completed projects.*
+These are learning goals, not claims of completed projects.
 
-## 📚 Current Learning Goals
+- [ ] 🧮 **Python Calculator** — practice functions and conditions.
+- [ ] 📒 **Contact Book** — practice lists, dictionaries, and file handling.
+- [ ] 🎓 **Student Database System** — connect Python to MySQL.
+- [ ] 💰 **Expense Tracker** — practice SQL queries and data management.
 
-- [ ] Strengthen Python fundamentals and problem-solving.
-- [ ] Practice SQL queries, joins, and database design.
-- [ ] Connect Python applications to MySQL.
-- [ ] Learn Git branching and collaboration.
-- [ ] Publish projects with clear documentation and examples.
+---
 
-## 🤝 Let's Connect
+## 🎯 My Learning Roadmap
 
-I'm always happy to learn, improve, and connect with fellow developers.
-
-- GitHub: [@mohamedriyasahamed21](https://github.com/mohamedriyasahamed21)
+- [ ] Master Python basics and functions.
+- [ ] Practice lists, dictionaries, and file handling.
+- [ ] Learn SQL queries, joins, and aggregation.
+- [ ] Create and manage MySQL databases.
+- [ ] Build a Python + MySQL project.
+- [ ] Document projects with clear READMEs.
 
 ---
 
 <div align="center">
 
-*“Consistency beats perfection. Keep learning, keep building.”* 💻
+### ✨ Code • Learn • Improve • Repeat
+
+*Thanks for visiting my profile!*
 
 </div>
